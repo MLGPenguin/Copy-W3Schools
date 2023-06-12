@@ -17,7 +17,7 @@
 </script>
 
 <div class="bg-[#282A35]" style="font-family: 'Source Sans Pro', sans-serif;">
-  <div class="h-20" />
+  <div class="h-[30vh]" />
   <center class="font-extrabold">
     <h1 class="text-white py-4 text-7xl">Learn to Code</h1>
     <h2 class="text-rose-200 text-2xl py-4"> With the world's largest web developer site. </h2>
