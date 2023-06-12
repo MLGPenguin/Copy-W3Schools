@@ -1,0 +1,33 @@
+[
+    {
+        "name": "HTML",
+        "description": "The language for building web pages",
+        "backgroundcolor": "#D9EEE1",
+        "textbox": {
+            "header": "HTML Example:",
+            "content": "<!DOCTYPE html>\n<html>\n<title>HTML Tutorial</title>\n\n<body>\n<h1>This is a heading</h1>\n<p>This is a paragraph.</p>\n</body>\n\n</html>"
+        },
+        "pills": [
+            {
+                "content": "Learn HTML",
+                "backgroundcolor": "#04AA6D",
+                "textcolor": null
+            },
+            {
+                "content": "Video Tutorial",
+                "backgroundcolor": "#FFF4A3",
+                "textcolor": "black"
+            },            
+            {
+                "content": "HTML Reference",
+                "backgroundcolor": "#282A35",
+                "textcolor": null
+            },            
+            {
+                "content": "Get Certified",
+                "backgroundcolor": "#FFC0C7",
+                "textcolor":"black"
+            }
+        ]
+    }
+]
