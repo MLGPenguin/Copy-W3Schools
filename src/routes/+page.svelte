@@ -27,7 +27,7 @@
         class="w-[24rem] rounded-l-full px-4 py-3 font-bold placeholder-gray-500 align-middle " />
 
       <iconify-icon icon="gridicons:search" height=24 style="color: white" 
-        class="bg-green-500 px-[2rem] py-3 align-middle rounded-e-full border-[1px] border-green-500 left-[-4px] relative "/>
+        class="bg-green-500 px-[2rem] py-3 align-middle rounded-e-full border-[1px] border-green-500 left-[-4px]"/>
     </form>
     <div class="p-4" />
     <a href="/" class="text-white text-2xl underline">Not Sure Where To Begin?</a>
