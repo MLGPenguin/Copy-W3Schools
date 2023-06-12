@@ -114,7 +114,7 @@
         "description": "A language for accessing databases",
         "backgroundcolor": "#96D4D4",
         "textbox": {
-            "header": "SQl Example:",
+            "header": "SQL Example:",
             "content": "SELECT * FROM Customers\nWHERE Country='Mexico';"
         },
         "pills": [

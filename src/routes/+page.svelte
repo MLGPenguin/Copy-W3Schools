@@ -32,7 +32,7 @@
     <div class="p-4" />
     <a href="/" class="text-white text-2xl underline">Not Sure Where To Begin?</a>
     <div class='p-12' /> 
-    <div id="HTML Showcase" class=bg-green-100>
+    <div id="wave" style="background-color: #D9EEE1">
       <svg viewBox="0 0 100 100" height=70 width=100% preserveAspectRatio="none">
         <path style="fill:#282A35;" d=" 
           M 0,0  
