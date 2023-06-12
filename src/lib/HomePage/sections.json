@@ -29,5 +29,110 @@
                 "textcolor":"black"
             }
         ]
+    },
+    {
+        "name": "CSS",
+        "description": "The language for styling web pages",
+        "backgroundcolor": "#FFF4A3",
+        "textbox": {
+            "header": "CSS Example:",
+            "content": "body {\n background-color: lightblue;\n}\n\nh1 {\n color: white;\n text-align: center;\n}\n\np {\n font-family: verdana;\n}\n"
+        },
+        "pills": [
+            {
+                "content": "Learn CSS",
+                "backgroundcolor": "#04AA6D",
+                "textcolor": null
+            },           
+            {
+                "content": "CSS Reference",
+                "backgroundcolor": "#282A35",
+                "textcolor": null
+            },
+            {
+                "content": "Get Certified",
+                "backgroundcolor": "#FFC0C7",
+                "textcolor":"black"
+            }
+        ]
+    },
+    {
+        "name": "JavaScript",
+        "description": "The language for programming web pages",
+        "backgroundcolor": "#282A35",
+        "textbox": {
+            "header": "JavaScript Example:",
+            "content": "<button onclick=\"myFunction()\">Click Me!</button>\n\n<script>\nfunction myFunction() {\n let x = document.getElementById(\"demo\");\n x.style.fontSize = \"25px\";\n x.style.color = \"red\";\n}\n</script>\n"
+        },
+        "invertcolors": true,
+        "pills": [
+            {
+                "content": "Learn JavaScript",
+                "backgroundcolor": "#04AA6D",
+                "textcolor": null
+            },           
+            {
+                "content": "JavaScript Reference",
+                "backgroundcolor": "white",
+                "textcolor": "black"
+            },
+            {
+                "content": "Get Certified",
+                "backgroundcolor": "#FFC0C7",
+                "textcolor":"black"
+            }
+        ]
+    },
+    {
+        "name": "Python",
+        "description": "A popular programming language",
+        "backgroundcolor": "#F3ECEA",
+        "textbox": {
+            "header": "Python Example:",
+            "content": "if 5 > 2:\n  print(\"Five is greater than two!\")"
+        },
+        "pills": [
+            {
+                "content": "Learn Python",
+                "backgroundcolor": "#04AA6D",
+                "textcolor": null
+            },           
+            {
+                "content": "Python Reference",
+                "backgroundcolor": "#282A35",
+                "textcolor": null
+            },
+            {
+                "content": "Get Certified",
+                "backgroundcolor": "#FFC0C7",
+                "textcolor":"black"
+            }
+        ]
+    },
+    {
+        "name": "SQL",
+        "description": "A language for accessing databases",
+        "backgroundcolor": "#96D4D4",
+        "textbox": {
+            "header": "SQl Example:",
+            "content": "SELECT * FROM Customers\nWHERE Country='Mexico';"
+        },
+        "pills": [
+            {
+                "content": "Learn SQL",
+                "backgroundcolor": "#04AA6D",
+                "textcolor": null
+            },           
+            {
+                "content": "SQL Reference",
+                "backgroundcolor": "#282A35",
+                "textcolor": null
+            },
+            {
+                "content": "Get Certified",
+                "backgroundcolor": "#FFC0C7",
+                "textcolor":"black"
+            }
+        ]
     }
 ]

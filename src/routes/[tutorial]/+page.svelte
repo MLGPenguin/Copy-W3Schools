@@ -2,6 +2,7 @@
     import type { Tutorial } from "../[tutorial]/page"
 
     export let data: Tutorial;
+
 </script>
 
 
@@ -10,6 +11,5 @@
         {data.topic} Tutorial
     </div>
     <div id="Content">
-
     </div>
 </main>

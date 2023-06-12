@@ -47,6 +47,7 @@
           backgroundcolor={section.backgroundcolor} 
           textbox={section.textbox}
           pills={section.pills}
+          invertcolors={section.invertcolors}
         />
       {/each}
 
