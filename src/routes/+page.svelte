@@ -26,7 +26,7 @@
         class="bg-green-500 px-[2rem] py-3 align-middle rounded-e-full white-icon border-[1px] border-green-500 left-[-4px] relative "/>
     </form>
     <div class="p-4" />
-    <a class="text-white text-2xl underline">Not Sure Where To Begin?</a>
+    <a href="/" class="text-white text-2xl underline">Not Sure Where To Begin?</a>
     <div class='p-12' /> 
     <div id="HTML Showcase" class=bg-green-100>
       <svg viewBox="0 0 100 100" height=70 width=100% preserveAspectRatio="none">
@@ -45,8 +45,25 @@
           <PillButton content="HTML Reference" properties="bg-black "/>
           <PillButton content="Get Certified" properties="bg-red-200 text-black"/>
         </div>
-        <div id="Right" class="w-[50%] bg-gray-200 shadow-2xl">
+        <div id="Right" class="w-[50%] bg-gray-200 shadow-md shadow-slate-500">
           <h1 class="text-3xl text-left m-4">HTML Example: </h1>
+          <div id="textpane" class="bg-white w-[90%] h-[80%] border-l-4 border-green-500 text-left font-normal">
+            <pre class="m-4">
+              {`
+<!DOCTYPE html> 
+<html>
+<title>HTML Tutorial</title>
+<body>
+  
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
+
+</body>
+</html>
+                `}
+
+            </pre>
+          </div>
         </div>
       </div>
     </div>    
