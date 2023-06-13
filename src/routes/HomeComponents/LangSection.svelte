@@ -16,10 +16,8 @@
 </script>
 
 <div style={`background-color: ${backgroundcolor}`}>
-<div class="h-12" />
-  <div id="container" class="flex w-[80%] font-semibold flex-wrap">
-
-    <div id="left" class="w-[50%] items-center flex flex-col min-w-fit">
+  <div id="container" class="flex flex-wrap max-w-5xl font-semibold py-12">
+    <div id="left" class="w-1/2 items-center flex flex-col min-w-fit mx-auto">
       <h1 class="text-8xl my-4 {textcolor }">{name}</h1>
       <h4 class="my-2 {textcolor}">{description}</h4>
       {#each pills as pill} 
@@ -27,9 +25,8 @@
       {/each}
     </div>
 
-    <div id="right" class="w-[50%]"> 
+    <div id="right" class="w-1/2 mx-auto min-w-fit py-4"> 
         <TextBoxComponent header={textbox.header} content={textbox.content} />
     </div>
   </div>
-<div class="h-12" />
 </div>

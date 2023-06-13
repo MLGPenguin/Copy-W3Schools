@@ -9,7 +9,7 @@
   });
 </script>
 
-<div style="position: fixed" class="w-[100vw]">
+<div class="fixed w-screen">
   <nav class="p-4 bg-white">
     <button on:click={() => goto("/")} class="bg-green-200">Home</button>
     <a> Tutorials </a>

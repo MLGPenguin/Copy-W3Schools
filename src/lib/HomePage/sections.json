@@ -62,7 +62,7 @@
         "backgroundcolor": "#282A35",
         "textbox": {
             "header": "JavaScript Example:",
-            "content": "<button onclick=\"myFunction()\">Click Me!</button>\n\n<script>\nfunction myFunction() {\n let x = document.getElementById(\"demo\");\n x.style.fontSize = \"25px\";\n x.style.color = \"red\";\n}\n</script>\n"
+            "content": "<button onclick=\"myFunction()\">\n  Click Me!\n</button>\n\n<script>\nfunction myFunction() {\n let x = document.getElementById(\"demo\");\n x.style.fontSize = \"25px\";\n x.style.color = \"red\";\n}\n</script>\n"
         },
         "invertcolors": true,
         "pills": [

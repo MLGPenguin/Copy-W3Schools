@@ -8,7 +8,7 @@
 
     <button 
         on:click={onClick} 
-        class={`text-white text-lg rounded-full m-[12px] w-[13rem] h-12`}
+        class={`text-white text-lg rounded-full m-3 w-52 h-12`}
         style={`background-color: ${backgroundcolor}; color: ${textcolor}`}
     >
         {content}
