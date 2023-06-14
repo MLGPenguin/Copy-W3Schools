@@ -22,9 +22,9 @@
     <h1 class="text-white py-4 text-7xl">Learn to Code</h1>
     <h2 class="text-rose-200 text-2xl py-4"> With the world's largest web developer site. </h2>
     <br>
-    <form class="inline-flex">
+    <form class="inline-flex max-w-md w-full px-4">
       <input bind:value={searchinput} placeholder="Search our tutorials, e.g. HTML" 
-        class="w-96 rounded-l-full px-4 py-3 font-bold placeholder-gray-500" />
+        class="w-full rounded-l-full px-4 py-3 font-bold placeholder-gray-500" />
       <button>
         <iconify-icon icon="gridicons:search" height=24 style="color: white" 
           class="bg-green-500 px-8 py-3 align-middle rounded-r-full border border-green-500"
